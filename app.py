@@ -19,7 +19,7 @@ preguntas = [
 
     {"texto": "¿Qué función tiene el biceps en ejercicios de pecho?",
      "opciones": ["ninguna", "ayuda a poder hacer más fuerza", "hace mejor la tecnica", "salchicha"],
-     "correcta": "salchicha"},
+     "correcta": "ninguna"},
 
     {"texto": "¿Cuántas repeticiones son ideales para ganar masa muscular?",
      "opciones": ["8", "12", "10", "4"],
