@@ -1,4 +1,4 @@
-import streamlit as 
+import streamlit as st
 
 # -----------------------------
 #  BASE DE DATOS DE PREGUNTAS
