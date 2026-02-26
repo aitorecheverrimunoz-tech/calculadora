@@ -42,13 +42,6 @@ preguntas = [
      "correcta": "espalda baja"},
 ]
 
-if "preguntas_mezcladas" not in st.session_state:
-    preguntas_mezcladas = preguntas.copy()
-    random.shuffle(preguntas_mezcladas)
-    st.session_state.preguntas_mezcladas = preguntas_mezcladas
-
-preguntas = st.session_state.preguntas_mezcladas
-
 
 st.title("Examen Interactivo")
 st.write("Responde y pulsa entregar para ver tu nota.")
